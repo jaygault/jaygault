@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jay, an <a href="https://www.linkedin.com/in/jay-gault-6baa5b420/">IT Professional</a>!</h1>
+<h1>Hello, I'm Jay, an <a href="https://www.linkedin.com/in/jay-gault-6baa5b420/">IT Professional in training</a>!</h1>
 
 I have worked with osTicket and Microsoft Azure and am always looking to expand my knowledge of computers to better grow my skills.
 <h2>🤳Connect with me:</h2>
